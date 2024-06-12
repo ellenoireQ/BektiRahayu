@@ -2,7 +2,7 @@ Bekti Rahayu
 =============
 
 ```bash
-echo -e $RED "©BektiRahayu"
+echo -e $RED "© BektiRahayu 2024"
 ```
 
 Image 1:
