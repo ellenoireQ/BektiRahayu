@@ -1,6 +1,10 @@
 Bekti Rahayu
 =============
 
+```bash
+© BektiRahayu
+```
+
 Image 1:
 ![img1](./Style/Simplfy-BR1.png)
 
