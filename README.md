@@ -2,7 +2,11 @@ Bekti Rahayu
 =============
 
 ```bash
-echo -e $RED "© BektiRahayu 2024"
+#!/bin/bash
+
+RED='\033[0;31m'
+echo -e $RED "© BektiRahayu 2024" && \
+exit
 ```
 
 Image 1:
